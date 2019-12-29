@@ -1,0 +1,9 @@
+worlds:
+
+permissions:
+  - minecraft.command.gamemode
+  - minecraft.command.time
+  - worldguard.region.redefine.*
+  - worldedit.*
+  - minecraft.command.give
+  - minecraft.command.weather

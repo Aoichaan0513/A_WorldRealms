@@ -1,0 +1,6 @@
+name: A_WorldRealms
+version: ${project.version}
+main: org.aoichaan0513.a_worldrealms.Main
+
+commands:
+  realm:
